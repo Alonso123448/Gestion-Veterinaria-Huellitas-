@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (contraseñas, config sensible)
+.env
+.env.local
+appsettings.local.json
+
+# Archivos de Visual Studio
+bin/
+obj/
+.vs/
+*.suo
+*.user
+
+# Archivos temporales del sistema
+Thumbs.db
+.DS_Store
